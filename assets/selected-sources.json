@@ -1,0 +1,31 @@
+{
+  "source": "https://www.гетбукет.рф",
+  "retrieved": "2026-09-21",
+  "products": [
+    {
+      "name": "Букет Рената",
+      "id": "2203",
+      "url": "https://api.xn--90adgby0cdf.xn--p1ai/uploads/1500x1500-1778771635.jpg"
+    },
+    {
+      "name": "Букет Райское облако",
+      "id": "2204",
+      "url": "https://api.xn--90adgby0cdf.xn--p1ai/uploads/1500x1500-1778771784.jpg"
+    },
+    {
+      "name": "Букет хризантем Летняя поляна",
+      "id": "2222",
+      "url": "https://api.xn--90adgby0cdf.xn--p1ai/uploads/523x523-1778773066.jpg"
+    },
+    {
+      "name": "Букет Летний луг",
+      "id": "2226",
+      "url": "https://api.xn--90adgby0cdf.xn--p1ai/uploads/1500x1500-1778773318.jpg"
+    },
+    {
+      "name": "Букет \"Подготовка к свиданию\"",
+      "id": "2230",
+      "url": "https://api.xn--90adgby0cdf.xn--p1ai/uploads/523x523-1778773606.jpg"
+    }
+  ]
+}

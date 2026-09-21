@@ -1,0 +1,24 @@
+name: GetBuket
+options:
+  bundleIdPrefix: studio.getbuket
+  deploymentTarget:
+    iOS: "18.0"
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    TARGETED_DEVICE_FAMILY: "1"
+    CODE_SIGNING_ALLOWED: NO
+targets:
+  GetBuket:
+    type: application
+    platform: iOS
+    sources: [GetBuket]
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: studio.getbuket.vision
+        INFOPLIST_FILE: GetBuket/Info.plist
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        MARKETING_VERSION: "1.0"
+        CURRENT_PROJECT_VERSION: "1"
+    scheme:
+      gatherCoverageData: false

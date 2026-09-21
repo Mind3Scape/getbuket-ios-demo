@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+reference/
+demo/GetBuket-demo-v2.mp4
+demo/*-raw.mp4
+__pycache__/
+*.pyc
